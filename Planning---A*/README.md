@@ -2,7 +2,7 @@
 
 **Objection:**
 
-Take the role of the owner of a taxi business and manage the deliver of passengers to their destinations in the shortest time possible
+Take the role of the owner of a taxi business and manage the delivery of passengers to their destinations in the shortest time possible
 
 **Environment:**
 
@@ -15,4 +15,4 @@ The environment is a rectangular grid - given as a list of lists. Each point on 
 3.	Drop off passengers on the same tile as the taxi. The passenger can only be dropped off on his destination tile and will refuse to leave the vehicle otherwise. 
 4.	Refuel the taxi. Refueling can be performed only at gas stations and brings the amount of fuel back to the maximum capacity. 
 5.	Wait. Does not change anything about the taxi.
-All 5 action above are atomic actions. Taxis can act simultaneously.
+All 5 actions above are atomic actions. Taxis can act simultaneously.
