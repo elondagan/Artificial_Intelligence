@@ -1,5 +1,4 @@
-# Planning - Monte Carlo based agents (2022)
-Implement Monte Carlo based agents for competitive taxi fleet management 
+# Implement Monte Carlo based agent for competitive taxi fleet management (2023)
 
 Same settings and environment as the stochastic taxi fleet management:                                   https://github.com/elondagan/AI---Stochastic_Taxi_Fleet_Management_System
 
